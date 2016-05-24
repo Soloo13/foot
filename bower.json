@@ -1,0 +1,11 @@
+{
+  "name": "foot",
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "vaadin-grid": "^1.0.0",
+    "jquery": "^2.2.3"
+  }
+}

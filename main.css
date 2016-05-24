@@ -1,0 +1,8 @@
+table {
+  width: 100%;
+}
+
+table tr td {
+  border-bottom: 1px solid black;
+  border-spacing: 0px;
+}
